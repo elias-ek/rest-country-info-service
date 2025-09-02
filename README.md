@@ -1,5 +1,7 @@
 # RESTful Country Information Service - Go
 A RESTful API written in golang, providing JSON responses with information about countries such as languages, bordering countries, population, etc.
+The service is deployed on render - https://rest-country-info-service.onrender.com/countryinfo/v1/info/
+It can take some time for the service to start, as free instances spin down with activity, so some patience is required.
 
 ## Setup 
 ### Requirements
